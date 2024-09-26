@@ -1,0 +1,13 @@
+=> Install Node
+=> Install VS Code
+
+Command:
+
+Check Node:  node -v
+Check NPM: npm -v
+
+Install Angular Cli - npm install -g @angular/cli
+Check Angular- ng v 
+Create Project - ng new angular_18_tutorial
+Install NPM- npm install
+Run project - ng serve | ng serve --o | ng serve --port 4204
