@@ -13,3 +13,5 @@ Create Project - ng new OnlineShop
 Install NPM- npm install
 
 Run project - ng serve | ng serve --o | ng serve --port 4204
+
+Generate Components- ng g c EmployeeList
